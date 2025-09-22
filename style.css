@@ -137,5 +137,8 @@ article img{
     background-image: url(promo2.jpg);
     color:white;
     text-align: center;
-
 }
+.info-section h2{
+    text-align:center;
+}
+
