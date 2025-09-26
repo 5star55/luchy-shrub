@@ -14,7 +14,6 @@ header img{
     transform-style: preserve-3d;
 }
 header{
-    border: 2px solid black;
     padding: 1.5rem;
     background-color: #1f2937;
 }
@@ -153,6 +152,7 @@ footer {
   text-align: center;
   font-family: Arial, sans-serif;
 }
+
 
 
 
