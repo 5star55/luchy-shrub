@@ -13,6 +13,14 @@ header img{
     animation: flip 2s linear infinite;
     transform-style: preserve-3d;
 }
+header{
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    padding: 1.5rem;
+    border-radius: 2rem;
+    background-color: #1f2937;
+}
 @keyframes flip {
       from {
         transform: rotateY(0deg);
@@ -148,5 +156,6 @@ footer {
   text-align: center;
   font-family: Arial, sans-serif;
 }
+
 
 
