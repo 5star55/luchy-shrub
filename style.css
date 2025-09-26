@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(194, 248, 194);
+    background-color: #26877e;
     margin:0;
     height: auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -29,7 +29,8 @@ nav {
   position: sticky; 
   top: 0;             
   background: #1f2937;   
-  z-index: 1000;       
+  z-index: 1000;
+  height: 3rem;       
 }
 nav ul{
   list-style: none; 
@@ -40,7 +41,7 @@ nav ul{
   list-style: none;
   margin: 0;
   padding: .75rem;
-    margin: 0;
+  margin: 0;
 }
 .others article{
     display: flex;
@@ -58,7 +59,7 @@ nav li{
 }
 nav a{
     text-decoration: none;
-    color:rgb(194, 248, 194);
+    color:#26877e;
 }
 nav a:hover{
     text-decoration: none;
@@ -141,9 +142,7 @@ article img{
     background-image: url(promo2.jpg);
     color:white;
     text-align: center;
-}
-.info-section h2{
-    text-align:center;
+
 }
 footer {
   background-color: #1f2937; /* dark gray */
@@ -152,8 +151,3 @@ footer {
   text-align: center;
   font-family: Arial, sans-serif;
 }
-
-
-
-
-
