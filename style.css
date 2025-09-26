@@ -1,4 +1,5 @@
 body{
+    background-color:#1f2937;
     margin:0;
     height: auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -153,3 +154,4 @@ footer {
   text-align: center;
   font-family: Arial, sans-serif;
 }
+
